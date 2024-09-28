@@ -10,7 +10,12 @@
 - please fix and install everything before coming. Check the package-lock.json to see what you are missing.
 or you can just type in terminal to install all missing packages:
     ```
-    npm install 
+    npm install
+
+    or
+    
+    npm install express
+    npm install mongoose
     ```
 # Testing
 After cloning the repo, open the source directory
@@ -35,29 +40,27 @@ Click here to check [Go](http://localhost:8000/home)
 
 ###  DB Connections
 
-Hadwa's grps:
+Hadwa's groups:
  ```
- mongodb+srv://Hadwa:Hadwa@cluster0.hpstsct.mongodb.net/?retryWrites=true&w=majority
+ mongodb+srv://Hadwa:Hadwa@cluster0.hpstsct.mongodb.net/
  ```
 
-Noha's grps:
+Noha's groups:
  ``` 
- mongodb+srv://database:1234@cluster0.insh6i0.mongodb.net/?retryWrites=true&w=majority
+ mongodb+srv://database:1234@cluster0.insh6i0.mongodb.net/
  ```
 
-Nada's grps:
+Nada's groups:
  ```
  mongodb+srv://atlasDB:atlasDB@cluster0.vt5cm.mongodb.net/
 ```
 
-Mabrouk's grps:
+Mabrouk's groups:
  ```
- mongodb+srv://gucACL:lab123456@mabrouk.klnokrh.mongodb.net/?retryWrites=true&w=majority
+mongodb+srv://gucACL:lab123456@mabrouk.klnokrh.mongodb.net/
 ```
-
-Fatma's grps:
+Karim's groups:
  ```
- mongodb+srv://Fatma:FatmaDB@cluster0.wxrq0bc.mongodb.net/
+mongodb+srv://aclLab:si3R6zZJzR6xZDze@adiabgudb.cdrbkot.mongodb.net/
 ```
-
 ### **DO NOT COMMIT TO THIS REPO**
